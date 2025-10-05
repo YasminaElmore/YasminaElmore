@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my page !
 
 <!--
 **YasminaElmore/YasminaElmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+<img src="./picture1test3github.png" alt="MasterHead" width="100%" style="max-width: 8000px;">
+</div>
+
