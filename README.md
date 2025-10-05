@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=4000&pause=500&color=FFC0CB&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=A+French,+Moroccan,+American+Girl+👩🏻;Who+wants+to+make+space+girlier+🎀;💅💻🚀✨🌟" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=1800&pause=500&color=FFC0CB&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=A+French,+Moroccan,+American+Girl+%F0%9F%91%A9%F0%9F%8F%BB;Who+wants+to+make+space+girlier+%F0%9F%8E%80;%F0%9F%92%85%F0%9F%92%BB%F0%9F%9A%80%E2%9C%A8%F0%9F%8C%9F" width="70%" />
 
 <br><br>
 
@@ -57,13 +57,12 @@ Here are some ideas to get you started:
 
 ---
 
-<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
-
 <div style="text-align: center; margin-top: 50px;">
-  <p style="color: #FFB6C1; font-size: 36px; font-family: 'Pacifico', cursive;">
+  <p style="color: #FFB6C1; font-size: 20px;">
     I am working late cause I am a coder 🎀💅✨
   </p>
 </div>
+
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFyeHExbDQzN3RzMzhvMTZnY3g4OHcyZmFqd2xiZ3h5c3d2MXZqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12nSEnavqSFdjlY3wX/giphy.gif" width="300" />
