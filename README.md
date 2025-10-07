@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img src="./picture1test3github.png" alt="MasterHead" width="100%" style="max-width: 8000px;">
+<img src="./picture1test4github.png" alt="MasterHead" width="100%" style="max-width: 8000px;">
 </div>
 
 ---
@@ -57,11 +57,7 @@ Here are some ideas to get you started:
 
 ---
 
-<div style="text-align: center; margin-top: 50px;">
-  <p style="color: #FFB6C1; font-size: 20px;">
-    I am working late cause I am a coder 🎀💅✨
-  </p>
-</div>
+<img src="https://img.shields.io/badge/I%20am%20working%20late%20cause%20I%20am%20a%20coder%20🎀💅✨-FFB6C1?style=for-the-badge&labelColor=white&color=FFC0CB" />
 
 
 <div align="center">
