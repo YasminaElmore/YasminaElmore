@@ -74,5 +74,5 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-![snake gif](https://raw.githubusercontent.com/YasminaElmore/YasminaElmore/refs/heads/output/github-snake-dark.svg)
+![snake gif](https://github.com/YasminaElmore/YasminaElmore/blob/output/github-snake-dark.svg)
 </div>
