@@ -69,10 +69,10 @@ Here are some ideas to get you started:
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFyeHExbDQzN3RzMzhvMTZnY3g4OHcyZmFqd2xiZ3h5c3d2MXZqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12nSEnavqSFdjlY3wX/giphy.gif" width="300" />
 </div>
 
-<br>
 ---
 
 <br>
+
 <div align="center">
-![snake gif](https://github.com/YasminaElmore/YasminaElmore/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/YasminaElmore/YasminaElmore/refs/heads/output/github-snake-dark.svg)
 </div>
