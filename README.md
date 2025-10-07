@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <pre>
 🎓 M.S. AeroAstro @ Stanford • M.S. Mechanical Engineering @ ENSTA Paris
-💻 Controls • Mechanical Design • Machine Learning • Simulation • Data Analysis • Fluid Mechanics
+💻 Controls • Mechanical Design • Machine Learning • Simulation • Data Analytics • Fluid Mechanics
 ⚙️ Building systems that obey physics (most of the time)
 🧠 Fluent in turbulence, sarcasm, and stress (structural and personal)
 ☕ Fuel: 70% code, 20% espresso (that’s that me-espresso 🎵), 10000% questionable life choices 
@@ -57,8 +57,13 @@ Here are some ideas to get you started:
 
 ---
 
-<img src="https://img.shields.io/badge/I%20am%20working%20late%20cause%20I%20am%20a%20coder%20🎀💅✨-FFB6C1?style=for-the-badge&labelColor=white&color=FFC0CB" />
+<br>
 
+<div align="center">
+<img src="https://img.shields.io/badge/I%20am%20working%20late%20cause%20I%20am%20a%20coder%20🎀💅✨-FFB6C1?style=for-the-badge&labelColor=white&color=FFB6C1" />
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFyeHExbDQzN3RzMzhvMTZnY3g4OHcyZmFqd2xiZ3h5c3d2MXZqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12nSEnavqSFdjlY3wX/giphy.gif" width="300" />
